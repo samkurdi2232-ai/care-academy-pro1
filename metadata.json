@@ -1,0 +1,6 @@
+{
+  "name": "CARE ACADEMY 3D - Medical Nursing Training Academy",
+  "description": "2026 Ultimate 3D Medical & Nursing Training Academy featuring realistic human anatomy viewer, smart clinical pharmacy dose calculator, interactive training modules, and exams in English and Behdini Kurdish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
